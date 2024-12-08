@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Hello, I'm Maya!
+🎓 I am a junior at UC San Diego studying math and computer science
+🔭 As a Break Through Tech AI fellow, I am currently learning more about machine learning and working on ML projects
+
+## 🛠 Tech Stack
+* **Programming Languages:** Python, C, C++, Java
+* **Libraries:** NumPy, scikit-learn, Pandas, matplotlib
+* **Tools:** Jupyter Notebooks, Visual Studio Code, GDB, Git (GitHub)
 
 <!--
 **2mayap/2mayap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
