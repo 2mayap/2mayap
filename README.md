@@ -13,7 +13,7 @@ Take a look at my team's project repository for the ML project we worked on from
 
 ## 📫 Contact
 * **Email:** 2mayap@gmail.com
-* **LinkedIn:** <a href="[https://www.linkedin.com/in/mayap3/]" target="_blank">linkedin.com/in/mayap3</a>
+* **LinkedIn:** [linkedin.com/in/mayap3](https://www.linkedin.com/in/mayap3/)
 
 <!--
 **2mayap/2mayap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
