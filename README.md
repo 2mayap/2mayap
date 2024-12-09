@@ -11,6 +11,10 @@ Take a look at my team's project repository for the ML project we worked on from
 * **Libraries:** NumPy, scikit-learn, Pandas, matplotlib
 * **Tools:** Jupyter Notebooks, Visual Studio Code, GDB, Git (GitHub)
 
+## 📫 Contact
+* **Email:** 2mayap@gmail.com
+* **LinkedIn:** <a href="[https://www.linkedin.com/in/mayap3/]" target="_blank">linkedin.com/in/mayap3</a>
+
 <!--
 **2mayap/2mayap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
