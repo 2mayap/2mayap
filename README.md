@@ -1,4 +1,4 @@
-## 👋 Hiya, I'm Maya!
+## 👋 Hello, I'm Maya!
 🎓 I am a junior at UC San Diego studying math and computer science.  
 🔭 As a Break Through Tech AI fellow, I am currently learning more about machine learning and working on ML projects.  
 
