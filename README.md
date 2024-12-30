@@ -9,10 +9,11 @@ Take a look at my team's project repository for the ML project we worked on from
 ## 🛠 Tech Stack
 * **Programming Languages:** Python, C, C++, Java
 * **Libraries:** NumPy, scikit-learn, Pandas, matplotlib
-* **Tools:** Jupyter Notebooks, Visual Studio Code, GDB, Git (GitHub)
+* **Environments:** Visual Studio Code, Jupyter Notebooks, Linux
+* **Tools:** GDB, Git (GitHub), Microsoft Office
 
 ## 📫 Contact
-* **Email:** 2mayap@gmail.com
+* **Email:** mnp001@ucsd.edu
 * **LinkedIn:** [linkedin.com/in/mayap3](https://www.linkedin.com/in/mayap3/)
 
 <!--
