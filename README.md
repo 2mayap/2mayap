@@ -13,7 +13,7 @@ Take a look at my team's project repository for the ML project we worked on from
 * **Tools:** GDB, Git (GitHub), Microsoft Office
 
 ## 📫 Contact
-* **Email:** mnp001@ucsd.edu
+* **Email:** 2mayap@gmail.com
 * **LinkedIn:** [linkedin.com/in/mayap3](https://www.linkedin.com/in/mayap3/)
 
 <!--
