@@ -8,10 +8,10 @@ Take a look at my team's project repository for the ML project we worked on from
 
 ## 🛠 Tech Stack
 * **Programming Languages:** Python, C, C++, Java
-* **Libraries:** NumPy, scikit-learn, Pandas, matplotlib
+* **Libraries:** NumPy, scikit-learn, Pandas, Matplotlib
 * **Environments:** Visual Studio Code, Jupyter Notebooks, Linux
 * **Tools:** GDB, Git (GitHub), Microsoft Office
-
+<!--
 ## 📫 Contact
 * **Email:** 2mayap@gmail.com
 * **LinkedIn:** [linkedin.com/in/mayap3](https://www.linkedin.com/in/mayap3/)
